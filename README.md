@@ -1,6 +1,7 @@
 # Travel Points
 
-![Travel Points Logo](images/logotravel.png)
+![logosuperpeq](https://user-images.githubusercontent.com/30583011/38583120-a1c0d024-3cd7-11e8-8304-f0a3cf4a4b97.png)
+
 
 ## Índice
 
